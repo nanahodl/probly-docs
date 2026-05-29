@@ -1,5 +1,5 @@
 ---
-description: How limit orders work on Yes/No.
+description: How limit orders work on Probly.
 ---
 
 # Limit Orders

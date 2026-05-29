@@ -14,7 +14,7 @@
 
   <rect x="250" y="40" width="210" height="56" rx="6" fill="#F5F3FF" stroke="#4C1D95" stroke-width="1.5"/>
   <text x="355" y="62" text-anchor="middle" font-size="13" font-weight="700" fill="#4C1D95">2 · Copy address</text>
-  <text x="355" y="80" text-anchor="middle" font-size="12" fill="#5B21B6">your Yes/No deposit address</text>
+  <text x="355" y="80" text-anchor="middle" font-size="12" fill="#5B21B6">your Probly deposit address</text>
 
   <line x1="462" y1="68" x2="488" y2="68" stroke="#4C1D95" stroke-width="1.8" marker-end="url(#arr-dp)"/>
 

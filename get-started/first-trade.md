@@ -1,5 +1,5 @@
 ---
-description: A step-by-step guide to placing your first trade on Yes/No.
+description: A step-by-step guide to placing your first trade on Probly.
 ---
 
 # Making Your First Trade
@@ -15,7 +15,7 @@ This walkthrough takes you from zero to first trade in about two minutes.
 
 ## Step 1 — Sign In
 
-Visit [yesorno.trade](https://yesorno.trade) and click **Log In** or **Sign Up**. Choose either:
+Visit [probly.com](https://probly.com) and click **Log In** or **Sign Up**. Choose either:
 
 * A crypto wallet — **MetaMask**, **Coinbase Wallet**, **Phantom**, or **Uniswap Wallet**
 * **Email** — Privy creates an embedded wallet for you

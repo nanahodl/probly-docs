@@ -1,10 +1,10 @@
 ---
-description: How orders are matched on the Yes/No order book.
+description: How orders are matched on the Probly order book.
 ---
 
 # How Orders Match
 
-Yes/No runs a **Central Limit Order Book (CLOB)** — the same matching model used by traditional exchanges. Every order is matched against the book using one consistent rule.
+Probly runs a **Central Limit Order Book (CLOB)** — the same matching model used by traditional exchanges. Every order is matched against the book using one consistent rule.
 
 ## Price-Time Priority
 

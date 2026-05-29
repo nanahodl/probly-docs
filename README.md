@@ -1,12 +1,12 @@
 ---
-description: Before it happens. — An overview of Yes/No and how prediction markets work.
+description: Before it happens. — An overview of Probly and how prediction markets work.
 ---
 
-# What is Yes/No?
+# What is Probly?
 
 ## Overview
 
-**Yes/No — before it happens.** Trade real-world outcomes by buying **YES** or **NO** shares on a question. Prices reflect the market's view of how likely each side is to win.
+**Probly — before it happens.** Trade real-world outcomes by buying **YES** or **NO** shares on a question. Prices reflect the market's view of how likely each side is to win.
 
 > Buy **YES** at **15¢** on _"Will BTC reach $100k this week?"_ The price implies a **15% chance**. If it happens, each share redeems for **$1.00** — turning **$0.15** into **$1.00** (**$0.85 profit** per share). If not, the shares settle at **$0**.
 
@@ -20,8 +20,8 @@ Every market asks a yes/no question. You can buy two things:
 Since exactly one side will be right, **1 YES + 1 NO = $1.00** at all times.
 
 <figure><picture>
-  <source srcset=".gitbook/assets/get-started_what-is-yesorno_1-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src=".gitbook/assets/get-started_what-is-yesorno_1.svg" alt="">
+  <source srcset=".gitbook/assets/get-started_what-is-probly_1-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src=".gitbook/assets/get-started_what-is-probly_1.svg" alt="">
 </picture></figure>
 
 Three rules follow from this:
@@ -31,8 +31,8 @@ Three rules follow from this:
 * **Prices stay between 1¢ and 99¢** — closer to 99¢ means more likely; closer to 1¢ means less.
 
 <figure><picture>
-  <source srcset=".gitbook/assets/get-started_what-is-yesorno_2-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src=".gitbook/assets/get-started_what-is-yesorno_2.svg" alt="">
+  <source srcset=".gitbook/assets/get-started_what-is-probly_2-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src=".gitbook/assets/get-started_what-is-probly_2.svg" alt="">
 </picture></figure>
 
 ## How Trading Works
@@ -59,6 +59,6 @@ Three rules follow from this:
 
 ## Join the Community
 
-Chat with traders and the Yes/No team on [Discord](https://discord.gg/yesorno) or [Twitter](https://twitter.com/yesorno).
+Chat with traders and the Probly team on [Discord](https://discord.gg/yesorno) or [Twitter](https://twitter.com/yesorno).
 
-Need help? Use the **support** channel in the footer at [yesorno.trade](https://yesorno.trade), or reach out at **support@yesorno.trade**.
+Need help? Use the **support** channel in the footer at [probly.com](https://probly.com), or reach out at **support@probly.com**.

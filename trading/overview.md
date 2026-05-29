@@ -1,10 +1,10 @@
 ---
-description: How trading on Yes/No works — the order book, order types, and more.
+description: How trading on Probly works — the order book, order types, and more.
 ---
 
 # Trading Overview
 
-Trading on Yes/No runs on a **Central Limit Order Book (CLOB)** — the same model used by traditional exchanges. Every order is matched transparently against a public, user-to-user order book.
+Trading on Probly runs on a **Central Limit Order Book (CLOB)** — the same model used by traditional exchanges. Every order is matched transparently against a public, user-to-user order book.
 
 ## How Shares Work
 
@@ -14,7 +14,7 @@ Each market has two outcome shares — **YES** and **NO** — priced between **1
 * 1 YES + 1 NO is always collateralized by **$1.00** USDC
 * At resolution, the winning side redeems for **$1.00** and the losing side for **$0**
 
-For a deeper walkthrough, see [What is Yes/No?](../#how-a-share-works).
+For a deeper walkthrough, see [What is Probly?](../#how-a-share-works).
 
 ## The Order Book
 

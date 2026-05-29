@@ -1,12 +1,12 @@
 ---
-description: When Yes/No markets may be voided and positions refunded.
+description: When Probly markets may be voided and positions refunded.
 ---
 
 # Refund Policy
 
 ## Overview
 
-Yes/No is a peer-to-peer market. When you trade, you're buying shares from or selling them to other users — prices move with supply and demand, and you take on the market risk of your position. **Normal trading losses are not refundable.**
+Probly is a peer-to-peer market. When you trade, you're buying shares from or selling them to other users — prices move with supply and demand, and you take on the market risk of your position. **Normal trading losses are not refundable.**
 
 In a small set of specific circumstances, however, a market may be voided and affected positions refunded.
 
@@ -19,7 +19,7 @@ A market may be voided when:
 * The outcome is genuinely ambiguous and cannot be determined fairly under the published rules
 * A critical setup error is discovered that materially affects fairness
 
-If a void is declared, Yes/No announces it on the affected market page and notifies holders. The specific handling of any refund is determined on a case-by-case basis under the [Terms of Use](terms-of-service.md).
+If a void is declared, Probly announces it on the affected market page and notifies holders. The specific handling of any refund is determined on a case-by-case basis under the [Terms of Use](terms-of-service.md).
 
 ## What Is Not Refundable
 
@@ -33,7 +33,7 @@ If a void is declared, Yes/No announces it on the affected market page and notif
 
 If you believe a market resolved incorrectly against its published rules:
 
-1. Email **support@yesorno.trade** with the market name and your concern
+1. Email **support@probly.com** with the market name and your concern
 2. Attach supporting evidence (official sources, timestamps, etc.)
 3. Appeals are reviewed strictly against the market's published rules
 

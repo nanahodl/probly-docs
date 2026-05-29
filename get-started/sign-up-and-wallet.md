@@ -1,14 +1,14 @@
 ---
-description: How to sign up on Yes/No and the wallet options we support.
+description: How to sign up on Probly and the wallet options we support.
 ---
 
 # Sign Up & Wallet
 
-Signing up on Yes/No takes less than a minute. **Log In** and **Sign Up** open the same modal — the first time you use a method we create your account; after that, the same method logs you in.
+Signing up on Probly takes less than a minute. **Log In** and **Sign Up** open the same modal — the first time you use a method we create your account; after that, the same method logs you in.
 
 ## Sign-In Methods
 
-Yes/No supports five sign-in methods, powered by [Privy](https://privy.io/) for identity and embedded wallets.
+Probly supports five sign-in methods, powered by [Privy](https://privy.io/) for identity and embedded wallets.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="340"><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ No wallet? Sign in with your email — Privy creates a secure **embedded wallet*
 
 ## Creating Your Account
 
-1. Go to [yesorno.trade](https://yesorno.trade)
+1. Go to [probly.com](https://probly.com)
 2. Click **Log In** or **Sign Up** in the top right
 3. Pick a sign-in method, then sign or verify to confirm
 4. Accept the [Terms of Use](../resources/terms-of-service.md) and [Privacy Policy](../resources/privacy-policy.md)
@@ -50,13 +50,13 @@ No wallet? Sign in with your email — Privy creates a secure **embedded wallet*
 ## Account Security
 
 {% hint style="warning" %}
-**Never share** your seed phrase, private key, or email verification code. Yes/No will never ask for them via DM, email, or Discord.
+**Never share** your seed phrase, private key, or email verification code. Probly will never ask for them via DM, email, or Discord.
 {% endhint %}
 
 * Keep your email account secure — we send one-time codes there to log you in
 * For self-custody wallets, back up your seed phrase offline
-* Always verify you're on **yesorno.trade** before connecting your wallet
-* Report suspicious activity to **support@yesorno.trade**
+* Always verify you're on **probly.com** before connecting your wallet
+* Report suspicious activity to **support@probly.com**
 
 ## Next Steps
 

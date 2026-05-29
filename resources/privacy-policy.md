@@ -1,12 +1,12 @@
 ---
-description: Yes/No Privacy Policy — how we collect, use, and protect your information.
+description: Probly Privacy Policy — how we collect, use, and protect your information.
 ---
 
 # Privacy Policy
 
 _Last updated: 23 March 2026_
 
-This Privacy Policy ("**Policy**") governs how Yes/No ("**Company**", "**we**", "**us**", "**our**") collects, uses, and protects your Personal Information when you use the Yes/No website, mobile applications, and related services (collectively, the "**Services**").
+This Privacy Policy ("**Policy**") governs how Probly ("**Company**", "**we**", "**us**", "**our**") collects, uses, and protects your Personal Information when you use the Probly website, mobile applications, and related services (collectively, the "**Services**").
 
 By using our Services, you acknowledge that you have read, understood, and agree to the practices described in this Policy. If you do not agree to this Policy, do not use, access, or interact with the Services.
 
@@ -81,7 +81,7 @@ Some information is inherently public due to the nature of the blockchain, inclu
 * Your username and profile details (if set)
 * Public transactions you've been involved in
 
-This information may be seen, reshared, or downloaded by anyone, whether or not they have a Yes/No account.
+This information may be seen, reshared, or downloaded by anyone, whether or not they have a Probly account.
 
 ## 4. Cookies
 
@@ -162,4 +162,4 @@ For inquiries or concerns about our Personal Information practices, your informa
 
 ---
 
-_This page is the binding Privacy Policy. By using the Yes/No Platform, you agree to this Policy in full._
+_This page is the binding Privacy Policy. By using the Probly Platform, you agree to this Policy in full._

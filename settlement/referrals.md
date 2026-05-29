@@ -73,11 +73,11 @@ Once unlocked:
 
 1. Open **Refer & Earn** from the avatar menu in the top right
 2. Pick a code (3–30 letters or numbers)
-3. Share your link — `yesorno.trade/?r={your-code}`
+3. Share your link — `probly.com/?r={your-code}`
 
 The dashboard shows **Sign-ups**, **Active Traders** (last 24h), and cumulative **Commission** over 7D / 30D / 90D / all-time.
 
 ## Related
 
 * [Fees](fees.md) — how trading fees are calculated
-* [Sign Up & Wallet](../get-started/sign-up-and-wallet.md) — how new users join Yes/No
+* [Sign Up & Wallet](../get-started/sign-up-and-wallet.md) — how new users join Probly

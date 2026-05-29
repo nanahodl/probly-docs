@@ -1,5 +1,5 @@
 ---
-description: How markets are resolved on Yes/No.
+description: How markets are resolved on Probly.
 ---
 
 # Market Resolution

@@ -1,10 +1,10 @@
 ---
-description: How trading fees work on Yes/No.
+description: How trading fees work on Probly.
 ---
 
 # Fees
 
-Yes/No charges a small **taker fee** on trades that match immediately against the order book.
+Probly charges a small **taker fee** on trades that match immediately against the order book.
 
 * **Always paid in USDC** — never deducted from your shares. The number of shares you enter is exactly what you receive (or deliver)
 * **Only takers pay** — limit orders that rest on the book (makers) are never charged. See [How Orders Match](../trading/matching-logic.md) for how maker vs taker is decided

@@ -1,5 +1,5 @@
 ---
-description: How market orders work on Yes/No.
+description: How market orders work on Probly.
 ---
 
 # Market Orders

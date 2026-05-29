@@ -1,10 +1,10 @@
 ---
-description: How to deposit and withdraw USDC on Yes/No.
+description: How to deposit and withdraw USDC on Probly.
 ---
 
 # Deposits & Withdrawals
 
-Yes/No settles every trade, deposit, and payout in **USDC**. Deposit USDC to start trading; withdraw anytime back to your external wallet.
+Probly settles every trade, deposit, and payout in **USDC**. Deposit USDC to start trading; withdraw anytime back to your external wallet.
 
 ## Deposit Flow
 
@@ -13,16 +13,16 @@ Yes/No settles every trade, deposit, and payout in **USDC**. Deposit USDC to sta
   <img src="../.gitbook/assets/get-started_deposits-and-withdrawals_1.svg" alt="">
 </picture></figure>
 
-Whether you signed in with a crypto wallet or with email, you deposit USDC into your Yes/No account before trading.
+Whether you signed in with a crypto wallet or with email, you deposit USDC into your Probly account before trading.
 
 1. Open **Wallet → Deposit**
-2. Copy your Yes/No deposit address
+2. Copy your Probly deposit address
 3. Send USDC to that address from an external wallet or exchange
 4. USDC is credited once the network confirms the transaction
 
 ## Supported Networks
 
-Yes/No only accepts USDC on the networks listed on the **Deposit** page. Sending from any other network may result in **permanent loss of funds**.
+Probly only accepts USDC on the networks listed on the **Deposit** page. Sending from any other network may result in **permanent loss of funds**.
 
 {% hint style="danger" %}
 Always confirm the network before sending. Tokens sent on the wrong chain cannot be recovered.
@@ -58,7 +58,7 @@ Most withdrawals process within a few minutes; final settlement depends on the n
 1. Confirm the transaction was sent on a **supported network**
 2. Wait for the network's required confirmations
 3. Look up the transaction hash on a block explorer
-4. If still missing after 30 minutes, email **support@yesorno.trade** with the transaction hash
+4. If still missing after 30 minutes, email **support@probly.com** with the transaction hash
 
 ### Withdrawal Is Pending
 
@@ -72,6 +72,6 @@ Funds sent on an unsupported network are generally **unrecoverable**. Always ver
 
 * Double-check the destination address before confirming
 * Trust the network indicator on the Deposit page — not third-party sources
-* Yes/No will **never** ask for a "verification" transaction by DM
+* Probly will **never** ask for a "verification" transaction by DM
 
 For more, see [Sign Up & Wallet → Account Security](sign-up-and-wallet.md#account-security).

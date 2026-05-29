@@ -10,15 +10,15 @@ A short reference for the questions traders ask most often. Click any question t
 
 <details>
 
-<summary>What is Yes/No?</summary>
+<summary>What is Probly?</summary>
 
-Yes/No is a prediction market exchange. Every market asks a yes-or-no question about a real-world event, and lets users buy YES or NO shares on the answer. At resolution, winning shares redeem for **$1.00** each; losing shares are worth $0. See [What is Yes/No?](../README.md).
+Probly is a prediction market exchange. Every market asks a yes-or-no question about a real-world event, and lets users buy YES or NO shares on the answer. At resolution, winning shares redeem for **$1.00** each; losing shares are worth $0. See [What is Probly?](../README.md).
 
 </details>
 
 <details>
 
-<summary>What is the mission of Yes/No?</summary>
+<summary>What is the mission of Probly?</summary>
 
 To make collective forecasting open and accessible — turning what people believe about the future into transparent, tradable prices that anyone can read or trade against. **Before it happens.**
 
@@ -26,9 +26,9 @@ To make collective forecasting open and accessible — turning what people belie
 
 <details>
 
-<summary>Is Yes/No a gambling site?</summary>
+<summary>Is Probly a gambling site?</summary>
 
-No. Unlike traditional gambling — where you bet against "the house" — Yes/No is a peer-to-peer financial exchange. You trade with other users on verifiable events; prices are set by supply and demand and reflect the market's aggregate view of the probability.
+No. Unlike traditional gambling — where you bet against "the house" — Probly is a peer-to-peer financial exchange. You trade with other users on verifiable events; prices are set by supply and demand and reflect the market's aggregate view of the probability.
 
 </details>
 
@@ -38,7 +38,7 @@ No. Unlike traditional gambling — where you bet against "the house" — Yes/No
 
 <summary>How do I create an account?</summary>
 
-Go to [yesorno.trade](https://yesorno.trade) and click **Log In / Sign Up**. You can sign in with a self-custody wallet (MetaMask, Coinbase Wallet, Phantom, or Uniswap Wallet), or with email — in the email case, [Privy](https://privy.io/) provisions a secure embedded wallet for you. See [Sign Up & Wallet](../get-started/sign-up-and-wallet.md).
+Go to [probly.com](https://probly.com) and click **Log In / Sign Up**. You can sign in with a self-custody wallet (MetaMask, Coinbase Wallet, Phantom, or Uniswap Wallet), or with email — in the email case, [Privy](https://privy.io/) provisions a secure embedded wallet for you. See [Sign Up & Wallet](../get-started/sign-up-and-wallet.md).
 
 </details>
 
@@ -46,13 +46,13 @@ Go to [yesorno.trade](https://yesorno.trade) and click **Log In / Sign Up**. You
 
 <summary>What currency do I use to trade?</summary>
 
-All trading on Yes/No is settled in **USDC** — every market price, fee, and payout is denominated in USDC. See [Deposits & Withdrawals](../get-started/deposits-and-withdrawals.md).
+All trading on Probly is settled in **USDC** — every market price, fee, and payout is denominated in USDC. See [Deposits & Withdrawals](../get-started/deposits-and-withdrawals.md).
 
 </details>
 
 <details>
 
-<summary>Will Yes/No support more currencies?</summary>
+<summary>Will Probly support more currencies?</summary>
 
 USDC is the sole settlement currency today. Additional assets may be supported in future releases — we'll announce any change in advance, but we don't commit to a timeline.
 
@@ -78,9 +78,9 @@ Open **Wallet → Withdraw**, enter the destination address and amount, confirm 
 
 <details>
 
-<summary>How do prices on Yes/No work?</summary>
+<summary>How do prices on Probly work?</summary>
 
-Every share trades between 1¢ and 99¢, and the price equals the market's implied probability — YES at 60¢ means the market sees a 60% chance of YES winning. At any moment **YES + NO ≈ $1.00**, because exactly one side will win. See [What is Yes/No?](../README.md#how-a-share-works).
+Every share trades between 1¢ and 99¢, and the price equals the market's implied probability — YES at 60¢ means the market sees a 60% chance of YES winning. At any moment **YES + NO ≈ $1.00**, because exactly one side will win. See [What is Probly?](../README.md#how-a-share-works).
 
 </details>
 
@@ -113,7 +113,7 @@ Yes. Any time before the market closes you can sell your position back to other 
 
 <summary>How are trading fees charged?</summary>
 
-Yes/No charges a small taker fee on orders that match immediately against the book. Fees are:
+Probly charges a small taker fee on orders that match immediately against the book. Fees are:
 
 * Always charged in **USDC** — never deducted from your shares. The number of shares you enter is exactly the number you receive (or deliver)
 * Only paid by takers — limit orders that rest on the book (makers) are never charged
@@ -135,15 +135,15 @@ An oracle is the data source a market uses to determine its outcome — a price 
 
 <summary>Can I dispute a market outcome?</summary>
 
-If you believe a market resolved against its published rules, email **support@yesorno.trade** with the market name, your concern, and any supporting evidence. Appeals are reviewed strictly against the market's published rules. See the [Refund Policy](refund-policy.md) and the binding [Terms of Use](terms-of-service.md) for the full procedure.
+If you believe a market resolved against its published rules, email **support@probly.com** with the market name, your concern, and any supporting evidence. Appeals are reviewed strictly against the market's published rules. See the [Refund Policy](refund-policy.md) and the binding [Terms of Use](terms-of-service.md) for the full procedure.
 
 </details>
 
 <details>
 
-<summary>What if the resolution is wrong? Will Yes/No issue a refund?</summary>
+<summary>What if the resolution is wrong? Will Probly issue a refund?</summary>
 
-A resolution consistent with the published rules is **final** — disagreeing with the real-world outcome is not a basis for a refund. In rare cases, however, a market may be **voided** (e.g. the resolution source becomes unavailable, the event is cancelled, the outcome is genuinely ambiguous, or there is a critical setup error). When that happens, Yes/No announces it on the market page and handles refunds case-by-case under the Terms of Use. See the [Refund Policy](refund-policy.md).
+A resolution consistent with the published rules is **final** — disagreeing with the real-world outcome is not a basis for a refund. In rare cases, however, a market may be **voided** (e.g. the resolution source becomes unavailable, the event is cancelled, the outcome is genuinely ambiguous, or there is a critical setup error). When that happens, Probly announces it on the market page and handles refunds case-by-case under the Terms of Use. See the [Refund Policy](refund-policy.md).
 
 </details>
 
@@ -159,9 +159,9 @@ Yes — share your idea with us on [Discord](https://discord.gg/yesorno) or [Twi
 
 <details>
 
-<summary>Does Yes/No hold my money?</summary>
+<summary>Does Probly hold my money?</summary>
 
-Yes/No is **non-custodial** — your funds remain in your own wallet (whether a self-custody wallet you connected, or the embedded wallet Privy provisions for you when you sign in with email). Yes/No never has unilateral access; every action that moves your assets is authorized by you.
+Probly is **non-custodial** — your funds remain in your own wallet (whether a self-custody wallet you connected, or the embedded wallet Privy provisions for you when you sign in with email). Probly never has unilateral access; every action that moves your assets is authorized by you.
 
 </details>
 
@@ -171,11 +171,11 @@ Yes/No is **non-custodial** — your funds remain in your own wallet (whether a 
 
 A few essentials:
 
-* **Never share** your seed phrase, private key, or email verification code — Yes/No will never ask for them
+* **Never share** your seed phrase, private key, or email verification code — Probly will never ask for them
 * For self-custody wallets, back up your seed phrase offline
 * For email login, keep your email account secure — that's where one-time codes are sent
-* Always check you're on yesorno.trade before connecting your wallet
-* Report suspicious activity to **support@yesorno.trade**
+* Always check you're on probly.com before connecting your wallet
+* Report suspicious activity to **support@probly.com**
 
 See [Sign Up & Wallet → Account Security](../get-started/sign-up-and-wallet.md#account-security).
 
@@ -185,7 +185,7 @@ See [Sign Up & Wallet → Account Security](../get-started/sign-up-and-wallet.md
 
 <summary>Can I lose my money?</summary>
 
-Yes. Yes/No is a peer-to-peer market — you take on real market risk, and normal trading losses are **not refundable**. Only trade with funds you're prepared to lose. See [Refund Policy](refund-policy.md).
+Yes. Probly is a peer-to-peer market — you take on real market risk, and normal trading losses are **not refundable**. Only trade with funds you're prepared to lose. See [Refund Policy](refund-policy.md).
 
 </details>
 
@@ -193,7 +193,7 @@ Yes. Yes/No is a peer-to-peer market — you take on real market risk, and norma
 
 <summary>Where can I get help?</summary>
 
-* **support@yesorno.trade** — for account, deposit, withdrawal, or resolution issues
+* **support@probly.com** — for account, deposit, withdrawal, or resolution issues
 * [Discord](https://discord.gg/yesorno) and [Twitter](https://twitter.com/yesorno) — for community discussion and product updates
 
 </details>
