@@ -12,7 +12,7 @@ A short reference for the questions traders ask most often. Click any question t
 
 <summary>What is Probly?</summary>
 
-Probly is a prediction market exchange. Every market asks a yes-or-no question about a real-world event, and lets users buy YES or NO shares on the answer. At resolution, winning shares redeem for **$1.00** each; losing shares are worth $0. See [What is Probly?](../README.md).
+Probly is a prediction market exchange. Every market asks a yes-or-no question about a real-world event, and lets users buy YES or NO shares on the answer. At resolution, winning shares redeem for **$1.00** each; losing shares are worth $0. See [What is Probly?](../).
 
 </details>
 
@@ -80,7 +80,7 @@ Open **Wallet → Withdraw**, enter the destination address and amount, confirm 
 
 <summary>How do prices on Probly work?</summary>
 
-Every share trades between 1¢ and 99¢, and the price equals the market's implied probability — YES at 60¢ means the market sees a 60% chance of YES winning. At any moment **YES + NO ≈ $1.00**, because exactly one side will win. See [What is Probly?](../README.md#how-a-share-works).
+Every share trades between 1¢ and 99¢, and the price equals the market's implied probability — YES at 60¢ means the market sees a 60% chance of YES winning. At any moment **YES + NO ≈ $1.00**, because exactly one side will win. See [What is Probly?](../#how-a-share-works).
 
 </details>
 
@@ -194,6 +194,6 @@ Yes. Probly is a peer-to-peer market — you take on real market risk, and norma
 <summary>Where can I get help?</summary>
 
 * **support@probly.com** — for account, deposit, withdrawal, or resolution issues
-* [Discord](https://discord.gg/yesorno) and [Twitter](https://twitter.com/yesorno) — for community discussion and product updates
+* [Discord](https://discord.gg/H82vHXEW) and [Twitter](https://x.com/ProblyHQ) — for community discussion and product updates
 
 </details>
