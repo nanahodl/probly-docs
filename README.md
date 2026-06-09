@@ -19,10 +19,7 @@ Every market asks a yes/no question. You can buy two things:
 
 Since exactly one side will be right, **1 YES + 1 NO = $1.00** at all times.
 
-<figure><picture>
-  <source srcset=".gitbook/assets/get-started_what-is-probly_1-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src=".gitbook/assets/get-started_what-is-probly_1.svg" alt="">
-</picture></figure>
+<figure><picture><source srcset=".gitbook/assets/get-started_what-is-probly_1-dark.svg" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/get-started_what-is-probly_1.svg" alt=""></picture><figcaption></figcaption></figure>
 
 Three rules follow from this:
 
@@ -30,10 +27,7 @@ Three rules follow from this:
 * **Price = implied probability.** YES at 60¢ ⇒ the market sees a **60% chance**.
 * **Prices stay between 1¢ and 99¢** — closer to 99¢ means more likely; closer to 1¢ means less.
 
-<figure><picture>
-  <source srcset=".gitbook/assets/get-started_what-is-probly_2-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src=".gitbook/assets/get-started_what-is-probly_2.svg" alt="">
-</picture></figure>
+<figure><picture><source srcset=".gitbook/assets/get-started_what-is-probly_2-dark.svg" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/get-started_what-is-probly_2.svg" alt=""></picture><figcaption></figcaption></figure>
 
 ## How Trading Works
 
@@ -59,6 +53,6 @@ Three rules follow from this:
 
 ## Join the Community
 
-Chat with traders and the Probly team on [Discord](https://discord.gg/yesorno) or [Twitter](https://twitter.com/yesorno).
+Chat with traders and the Probly team on [Discord](https://discord.gg/H82vHXEW) or [Twitter](https://x.com/ProblyHQ).
 
 Need help? Use the **support** channel in the footer at [probly.com](https://probly.com), or reach out at **support@probly.com**.
