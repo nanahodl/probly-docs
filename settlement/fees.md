@@ -31,17 +31,14 @@ takerFee = C × p × takerFeeRate × (p × (1 − p))^exponent
 
 The factor _p × (1 − p)_ shapes the curve — it peaks at _p = 0.50_ and tapers toward both extremes:
 
-<figure><picture>
-  <source srcset="../.gitbook/assets/settlement_fees_1-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="../.gitbook/assets/settlement_fees_1.svg" alt="">
-</picture></figure>
+<figure><picture><source srcset="../.gitbook/assets/settlement_fees_1-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/settlement_fees_1.svg" alt=""></picture><figcaption></figcaption></figure>
 
 In practice:
 
 * **Fees peak at 50% probability** — where uncertainty is highest
 * **Fees shrink toward both ends** — a heavy favorite at 95¢ costs much less to trade than a coin-flip at 50¢
 * **Symmetric around 50¢** — a trade at 30¢ costs the same dollar fee as the same-size trade at 70¢
-* **Very small trades near the extremes may incur no fee at all** (see [Fee Precision](#fee-precision))
+* **Very small trades near the extremes may incur no fee at all** (see [Fee Precision](fees.md#fee-precision))
 
 ## How You're Charged
 
@@ -67,12 +64,12 @@ The **Est. Fee** is calculated at the **highest possible rate** (fully taker at 
 
 Buying **5 shares** at a limit price of 80¢:
 
-| Field       | Value                              |
-| ----------- | ---------------------------------- |
-| Shares      | 5                                  |
-| Order Value | 5 × $0.80 = $4.00                  |
-| Est. Fee    | ≈ $0.03                            |
-| **Total**   | **$4.03**                          |
+| Field       | Value                                                                    |
+| ----------- | ------------------------------------------------------------------------ |
+| Shares      | 5                                                                        |
+| Order Value | 5 × $0.80 = $4.00                                                        |
+| Est. Fee    | ≈ $0.03                                                                  |
+| **Total**   | **$4.03**                                                                |
 | To Win      | $5.00 if YES wins, $0 if it loses _(total payout — includes your stake)_ |
 
 You pay **$4.03** and receive exactly **5 shares**.
@@ -96,7 +93,8 @@ You pay **$4.03** and receive exactly **5 shares**.
 ## Where to Find Your Fee
 
 * **Before** a trade — estimated fee and final total appear in the order panel
-* **After** a trade — the exact fee appears on each fill under **Portfolio → History**
+
+
 
 ## Related
 
