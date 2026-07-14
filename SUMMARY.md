@@ -22,9 +22,9 @@
 * [Market Resolution](settlement/market-resolution.md)
 * [Referrals](settlement/referrals.md)
 
-***
+## Bug Bounty Program
 
-* [Bug Bounty Program](bug-bounty-program.md)
+* [Program Policy](bug-bounty-program/program-policy.md)
 
 ## Resources
 

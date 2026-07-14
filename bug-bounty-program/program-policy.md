@@ -4,7 +4,7 @@ description: >-
   disclosure program.
 ---
 
-# Bug Bounty Program
+# Program Policy
 
 _Last updated: July 10, 2026_
 
