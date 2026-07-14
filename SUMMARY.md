@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 
 ## Get Started
 
@@ -25,6 +25,7 @@
 ## Resources
 
 * [FAQ](resources/faq.md)
+* [Bug Bounty Program](resources/bug-bounty-program.md)
 * [Refund Policy](resources/refund-policy.md)
 * [Terms of Use](resources/terms-of-service.md)
 * [Privacy Policy](resources/privacy-policy.md)
