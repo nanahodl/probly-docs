@@ -101,5 +101,5 @@ You pay **$4.03** and receive exactly **5 shares**.
 * [How Orders Match](../trading/matching-logic.md) — how maker / taker is determined
 * [Market Orders](../trading/market-orders.md) — execute immediately at the best price
 * [Limit Orders](../trading/limit-orders.md) — rest on the book at your chosen price
-* [Deposits & Withdrawals](../get-started/deposits-and-withdrawals.md) — no platform fee, only network gas
+* [Deposits & Withdrawals](../get-started/deposits-and-withdrawals.md) — free deposits, 1 USDC withdrawal fee
 * [Referrals](referrals.md) — earn a share of fees from users you invite

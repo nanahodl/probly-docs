@@ -8,10 +8,7 @@ Probly settles every trade, deposit, and payout in **USDC**. Deposit USDC to sta
 
 ## Deposit Flow
 
-<figure><picture>
-  <source srcset="../.gitbook/assets/get-started_deposits-and-withdrawals_1-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="../.gitbook/assets/get-started_deposits-and-withdrawals_1.svg" alt="">
-</picture></figure>
+<figure><picture><source srcset="../.gitbook/assets/get-started_deposits-and-withdrawals_1-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/get-started_deposits-and-withdrawals_1.svg" alt=""></picture><figcaption></figcaption></figure>
 
 Whether you signed in with a crypto wallet or with email, you deposit USDC into your Probly account before trading.
 
@@ -28,21 +25,46 @@ Probly only accepts USDC on the networks listed on the **Deposit** page. Sending
 Always confirm the network before sending. Tokens sent on the wrong chain cannot be recovered.
 {% endhint %}
 
-## Minimums
+## Minimums & Fees
 
-| Action        | Minimum |
-| ------------- | ------- |
-| Deposit USDC  | 10 USDC |
-| Withdraw USDC | 10 USDC |
+| Action        | Minimum | Fees       |
+| ------------- | ------- | ---------- |
+| Deposit USDC  | 3 USDC  | 0 USDC     |
+| Withdraw USDC | 4 USDC  | 1 - 2 USDC |
 
-Standard network gas applies to on-chain transactions.
+### Fee Types
+
+**Platform Fees**
+
+Platform fees cover the cost of bridging assets to your selected destination chain.
+
+* Deposits: Currently waived.
+* Withdrawals: 1 USDC per withdrawal.
+
+**One-time Account Activation Fee**
+
+The account activation fee is charged **once per account** to initialise it for deposits and/or withdrawals.
+
+* Deposits: Currently waived.
+* Withdrawals: 1 USDC for new users on their **first withdrawal only**.
+
+**Network Fees**
+
+Network fees are charged by the blockchain to process on-chain transactions and are paid to network validators, not Probly.
+
+* Standard network gas fees apply to all on-chain transactions.
+
+> Fee summary
+>
+> * Deposits: Free (fees are currently waived).
+> * First withdrawal: 2 USDC (1 USDC platform fee + 1 USDC one-time account activation fee), excluding network gas fees.
+> * Subsequent withdrawals: 1 USDC platform fee, excluding network gas fees.
+
+
 
 ## Withdrawal Flow
 
-<figure><picture>
-  <source srcset="../.gitbook/assets/get-started_deposits-and-withdrawals_2-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="../.gitbook/assets/get-started_deposits-and-withdrawals_2.svg" alt="">
-</picture></figure>
+<figure><picture><source srcset="../.gitbook/assets/get-started_deposits-and-withdrawals_2-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/get-started_deposits-and-withdrawals_2.svg" alt=""></picture><figcaption></figcaption></figure>
 
 1. Open **Wallet → Withdraw**
 2. Enter the destination address and amount
