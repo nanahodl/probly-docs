@@ -27,40 +27,50 @@ Always confirm the network before sending. Tokens sent on the wrong chain cannot
 
 ## Minimums & Fees
 
-| Action        | Minimum | Fees       |
-| ------------- | ------- | ---------- |
-| Deposit USDC  | 3 USDC  | 0 USDC     |
-| Withdraw USDC | 4 USDC  | 1 - 2 USDC |
+| Action        | Minimum | Fees           |
+| ------------- | ------- | -------------- |
+| Deposit USDC  | 3 USDC  | 0 USDC         |
+| Withdraw USDC | 4 USDC  | 0.1 - 1.5 USDC |
 
 ### Fee Types
 
-**Platform Fees**
+#### **Platform Fees**
 
-Platform fees cover the cost of bridging assets to your selected destination chain.
+**Purpose:** Cover the cost of bridging assets to your selected destination chain.
 
-* Deposits: Currently waived.
-* Withdrawals: 1 USDC per withdrawal.
+**Charges:**
 
-**One-time Account Activation Fee**
+* Deposits: Free (Currently waived)
+* Withdrawals: Chain-based platform fees
+  * Arbitrum: 0.1 USDC
+  * Base: 0.1 USDC
+  * Polygon PoS: 0.1 USDC
+  * Ethereum: 0.5 USDC
+  * Solana: 0.3 USDC
 
-The account activation fee is charged **once per account** to initialise it for deposits and/or withdrawals.
+#### **One-time Account Transfer Fee**
 
-* Deposits: Currently waived.
-* Withdrawals: 1 USDC for new users on their **first withdrawal only**.
+**Purpose:** As transfers on Txflow are free, this fee is a **security measure** to **prevent spam and Sybil attacks** by introducing a **one-time cost for transfers to new addresses**. It is not a revenue-generating fee.
 
-**Network Fees**
+**Charges:**
 
-Network fees are charged by the blockchain to process on-chain transactions and are paid to network validators, not Probly.
+* Deposits: Free (Currently waived)
+* Withdrawals: 1 USDC charged **once per destination address** on the **first withdrawal** to that address.
 
-* Standard network gas fees apply to all on-chain transactions.
+#### **Network Fees**
 
-> Fee summary
->
-> * Deposits: Free (fees are currently waived).
-> * First withdrawal: 2 USDC (1 USDC platform fee + 1 USDC one-time account activation fee), excluding network gas fees.
-> * Subsequent withdrawals: 1 USDC platform fee, excluding network gas fees.
+Network fees are charged by the blockchain to process on-chain transactions and are paid to network validators, **not Probly**.
 
+Standard network gas fees apply to all on-chain transactions.
 
+{% hint style="info" %}
+**Fee summary**
+
+* Deposits: Free (fees are currently waived).
+* **First withdrawal** to a **new address**: Applicable c**hain-based platform fee** + 1 USDC **one-time account transfer fee**, excluding network gas fees.
+* Subsequent withdrawals to the **same address**: Applicable **chain-based platform fee only**, excluding network gas fees.
+* Subsequent withdrawals to a **different address**: Applicable chain-based platform fee + **1 USDC one-time account transfer fee** for the new address, excluding network gas fees.
+{% endhint %}
 
 ## Withdrawal Flow
 
