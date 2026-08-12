@@ -3,7 +3,7 @@
 ## Get Started
 
 * [What is Probly?](README.md)
-* [Sign Up & Wallet](get-started/sign-up-and-wallet.md)
+* [Get Started](get-started/sign-up-and-wallet.md)
 * [Deposits & Withdrawals](get-started/deposits-and-withdrawals.md)
 * [Making Your First Trade](get-started/first-trade.md)
 
