@@ -59,7 +59,7 @@ Always confirm the network before sending. Tokens sent on the wrong chain cannot
 
 #### **Network Fees**
 
-Network fees are charged by the blockchain to process on-chain transactions and are paid to network validators, **not Probly**.
+**Purpose:** Network fees are charged by the blockchain to process on-chain transactions and are paid to network validators, **not Probly**.
 
 Standard network gas fees apply to all on-chain transactions.
 
