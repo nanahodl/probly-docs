@@ -31,19 +31,7 @@ takerFee = C × p × takerFeeRate × (p × (1 − p))^exponent
 
 `TakerFeeRate` is assigned based on the market's category. The Fee Type Code appears in the order breakdown before you confirm a trade. `MakerFeeRate` is currently set to 0.
 
-| Category         | Fee Type Code | Taker Fee Rate | Maker Fee Rate | Exponent |
-| ---------------- | ------------- | -------------- | -------------- | -------- |
-| General          | PBLGEN        | 0.05           | 0.00           | 1×       |
-| Weather          | PBLWTH        | 0.05           | 0.00           | 1×       |
-| Culture          | PBLCUL        | 0.05           | 0.00           | 1×       |
-| Economics        | PBLECO        | 0.05           | 0.00           | 1×       |
-| Mentions         | PBLMEN        | 0.04           | 0.00           | 1×       |
-| Tech             | PBLTEC        | 0.04           | 0.00           | 1×       |
-| Politics         | PBLPOL        | 0.04           | 0.00           | 1×       |
-| Finance & Prices | PBLFIN        | 0.04           | 0.00           | 1×       |
-| Crypto           | PBLCRY        | 0.07           | 0.00           | 1×       |
-| Sports           | PBLSPO        | 0.05           | 0.00           | 1×       |
-| Others           | PBLOTH        | 0.04           | 0.00           | 1×       |
+<table data-search="false"><thead><tr><th>Category</th><th>Fee Type Code</th><th>Taker Fee Rate</th><th>Maker Fee Rate</th><th>Exponent</th></tr></thead><tbody><tr><td>General</td><td>PBLGEN</td><td>0.05</td><td>0.00</td><td>1×</td></tr><tr><td>Weather</td><td>PBLWTH</td><td>0.05</td><td>0.00</td><td>1×</td></tr><tr><td>Culture</td><td>PBLCUL</td><td>0.05</td><td>0.00</td><td>1×</td></tr><tr><td>Economics</td><td>PBLECO</td><td>0.05</td><td>0.00</td><td>1×</td></tr><tr><td>Mentions</td><td>PBLMEN</td><td>0.04</td><td>0.00</td><td>1×</td></tr><tr><td>Tech</td><td>PBLTEC</td><td>0.04</td><td>0.00</td><td>1×</td></tr><tr><td>Politics</td><td>PBLPOL</td><td>0.04</td><td>0.00</td><td>1×</td></tr><tr><td>Finance &#x26; Prices</td><td>PBLFIN</td><td>0.04</td><td>0.00</td><td>1×</td></tr><tr><td>Crypto</td><td>PBLCRY</td><td>0.07</td><td>0.00</td><td>1×</td></tr><tr><td>Sports</td><td>PBLSPO</td><td>0.05</td><td>0.00</td><td>1×</td></tr><tr><td>Others</td><td>PBLOTH</td><td>0.04</td><td>0.00</td><td>1×</td></tr></tbody></table>
 
 The exponent scales the fee curve: at 1, the curve applies linearly with no additional adjustment. Future categories or promotional periods may use a different exponent.
 
