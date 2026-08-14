@@ -27,6 +27,26 @@ takerFee = C × p × takerFeeRate × (p × (1 − p))^exponent
 **takerFeeRate** and **exponent** are set per market and published on the market page before you trade.
 {% endhint %}
 
+## **Fee Rates by Market Category**
+
+`TakerFeeRate` is assigned based on the market's category. The Fee Type Code appears in the order breakdown before you confirm a trade. `MakerFeeRate` is currently set to 0.
+
+| Category         | Fee Type Code | Taker Fee Rate | Maker Fee Rate | Exponent |
+| ---------------- | ------------- | -------------- | -------------- | -------- |
+| General          | PBLGEN        | 0.05           | 0.00           | 1×       |
+| Weather          | PBLWTH        | 0.05           | 0.00           | 1×       |
+| Culture          | PBLCUL        | 0.05           | 0.00           | 1×       |
+| Economics        | PBLECO        | 0.05           | 0.00           | 1×       |
+| Mentions         | PBLMEN        | 0.04           | 0.00           | 1×       |
+| Tech             | PBLTEC        | 0.04           | 0.00           | 1×       |
+| Politics         | PBLPOL        | 0.04           | 0.00           | 1×       |
+| Finance & Prices | PBLFIN        | 0.04           | 0.00           | 1×       |
+| Crypto           | PBLCRY        | 0.07           | 0.00           | 1×       |
+| Sports           | PBLSPO        | 0.05           | 0.00           | 1×       |
+| Others           | PBLOTH        | 0.04           | 0.00           | 1×       |
+
+The exponent scales the fee curve: at 1, the curve applies linearly with no additional adjustment. Future categories or promotional periods may use a different exponent.
+
 ## The Fee Curve
 
 The factor _p × (1 − p)_ shapes the curve — it peaks at _p = 0.50_ and tapers toward both extremes:
