@@ -2,9 +2,7 @@
 description: Connect with the Probly team through Discord, X, or email.
 ---
 
-# How to contact us
-
-## Contact Us
+# Contact Us
 
 Choose the channel that works best for you.
 

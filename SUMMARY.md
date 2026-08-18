@@ -33,6 +33,6 @@
 * [Terms of Use](resources/terms-of-service.md)
 * [Privacy Policy](resources/privacy-policy.md)
 
-## Contact Us
+***
 
-* [How to contact us](contact-us/how-to-contact-us.md)
+* [Contact Us](contact-us.md)
