@@ -19,7 +19,7 @@ A market may be voided when:
 * The outcome is genuinely ambiguous and cannot be determined fairly under the published rules
 * A critical setup error is discovered that materially affects fairness
 
-If a void is declared, Probly announces it on the affected market page and notifies holders. The specific handling of any refund is determined on a case-by-case basis under the [Terms of Use](terms-of-service.md).
+If a void is declared, Probly announces it on the affected market page and notifies holders. The specific handling of any refund is determined on a case-by-case basis under the [Terms of Use](https://www.probly.com/en/term-of-use).
 
 ## What Is Not Refundable
 
@@ -38,5 +38,5 @@ If you believe a market resolved incorrectly against its published rules:
 3. Appeals are reviewed strictly against the market's published rules
 
 {% hint style="warning" %}
-Resolutions consistent with the published rules are **final** — even if you disagree with the real-world outcome. See the [Terms of Use](terms-of-service.md) for the binding dispute procedure.
+Resolutions consistent with the published rules are **final** — even if you disagree with the real-world outcome. See the [Terms of Use](https://www.probly.com/en/term-of-use) for the binding dispute procedure.
 {% endhint %}

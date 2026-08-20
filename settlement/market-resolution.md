@@ -8,10 +8,7 @@ Every market has a defined **resolution condition** and **deadline**. When the d
 
 ## Market Lifecycle
 
-<figure><picture>
-  <source srcset="../.gitbook/assets/settlement_market-resolution_1-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="../.gitbook/assets/settlement_market-resolution_1.svg" alt="">
-</picture></figure>
+<figure><picture><source srcset="../.gitbook/assets/settlement_market-resolution_1-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/settlement_market-resolution_1.svg" alt=""></picture><figcaption></figcaption></figure>
 
 ## Resolution Process
 
@@ -48,10 +45,7 @@ When the deadline passes:
 
 Every **1 YES + 1 NO** pair was collateralized by $1.00 USDC — at resolution that dollar flows entirely to the winning side:
 
-<figure><picture>
-  <source srcset="../.gitbook/assets/settlement_market-resolution_2-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="../.gitbook/assets/settlement_market-resolution_2.svg" alt="">
-</picture></figure>
+<figure><picture><source srcset="../.gitbook/assets/settlement_market-resolution_2-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/settlement_market-resolution_2.svg" alt=""></picture><figcaption></figcaption></figure>
 
 | You held | Market resolved | You get                   |
 | -------- | --------------- | ------------------------- |
@@ -68,10 +62,10 @@ For **category markets**, only YES on the winning outcome pays $1.00; every othe
 A resolution **consistent with the published rules is final** — disagreeing with the real-world outcome does not qualify a position for a refund. Read the resolution criteria on the market page before trading.
 {% endhint %}
 
-In rare cases — a resolution source becoming unavailable, an event cancelled or indefinitely postponed, a materially ambiguous outcome, or a critical setup error — a market may be **voided**. See [Refund Policy](../resources/refund-policy.md) for when this applies, and the [Terms of Use](../resources/terms-of-service.md) for the binding dispute procedure.
+In rare cases — a resolution source becoming unavailable, an event cancelled or indefinitely postponed, a materially ambiguous outcome, or a critical setup error — a market may be **voided**. See [Refund Policy](../resources/refund-policy.md) for when this applies, and the [Terms of Use](/broken/pages/4u1zW8xhLNtrPaXxfwaR) for the binding dispute procedure.
 
 ## Related
 
 * [Refund Policy](../resources/refund-policy.md) — when markets may be voided
-* [Terms of Use](../resources/terms-of-service.md) — binding rules and dispute procedure
+* [Terms of Use](/broken/pages/4u1zW8xhLNtrPaXxfwaR) — binding rules and dispute procedure
 * [Merging & Splitting Shares](../trading/merging-and-splitting.md) — convert between USDC and share pairs

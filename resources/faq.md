@@ -135,7 +135,7 @@ An oracle is the data source a market uses to determine its outcome — a price 
 
 <summary>Can I dispute a market outcome?</summary>
 
-If you believe a market resolved against its published rules, email **support@probly.com** with the market name, your concern, and any supporting evidence. Appeals are reviewed strictly against the market's published rules. See the [Refund Policy](refund-policy.md) and the binding [Terms of Use](terms-of-service.md) for the full procedure.
+If you believe a market resolved against its published rules, email **support@probly.com** with the market name, your concern, and any supporting evidence. Appeals are reviewed strictly against the market's published rules. See the [Refund Policy](refund-policy.md) and the binding [Terms of Use](/broken/pages/4u1zW8xhLNtrPaXxfwaR) for the full procedure.
 
 </details>
 

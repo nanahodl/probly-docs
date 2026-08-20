@@ -13,7 +13,7 @@ If you’re new to crypto, don’t worry—if you sign up with your email or a s
 1. Go to [probly.com](https://probly.com)
 2. Click **Get Started** in the top right
 3. Pick a sign-in method, then sign or verify to confirm
-4. Accept the [Terms of Use](../resources/terms-of-service.md) and [Privacy Policy](../resources/privacy-policy.md)
+4. Accept the [Terms of Use](/broken/pages/4u1zW8xhLNtrPaXxfwaR) and [Privacy Policy](/broken/pages/UO4QgktgNh5GvhrPZeTh)
 5. Deposit USDC into your wallet to begin trading
 
 <figure><picture><source srcset="../.gitbook/assets/get-started_sign-up-and-wallet_1-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/get-started_sign-up-and-wallet_1.svg" alt=""></picture><figcaption></figcaption></figure>

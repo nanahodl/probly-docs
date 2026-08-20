@@ -30,8 +30,6 @@
 
 * [FAQ](resources/faq.md)
 * [Refund Policy](resources/refund-policy.md)
-* [Terms of Use](resources/terms-of-service.md)
-* [Privacy Policy](resources/privacy-policy.md)
 
 ***
 
