@@ -1,42 +1,38 @@
 ---
-description: When Probly markets may be voided and positions refunded.
+description: >-
+  Probly may refund users at its discretion. Refunds are typically issued when a
+  market cannot resolve as intended or is affected by a technical error.
 ---
 
 # Refund Policy
 
-## Overview
+## Refund types
 
-Probly is a peer-to-peer market. When you trade, you're buying shares from or selling them to other users — prices move with supply and demand, and you take on the market risk of your position. **Normal trading losses are not refundable.**
+Probly only refunds your initial costs.
 
-In a small set of specific circumstances, however, a market may be voided and affected positions refunded.
+### Initial cost
 
-## When Markets May Be Voided
+This refund applies when a market is voided. A market may be voided when:
 
-A market may be voided when:
+1. The rules are faulty, the market is posted too late, it is removed before resolution, or its rules change after launch.
+2. The resolution source becomes unavailable and no acceptable alternative exists.
+3. The event is cancelled or indefinitely postponed with no clear path to resolution.
+4. The outcome is genuinely ambiguous and cannot be determined fairly under the published rules.
+5. A critical setup error is discovered that materially affects fairness.
 
-* The resolution source becomes unavailable and no acceptable alternative exists
-* The event is cancelled or indefinitely postponed with no clear path to resolution
-* The outcome is genuinely ambiguous and cannot be determined fairly under the published rules
-* A critical setup error is discovered that materially affects fairness
+If a void is declared, Probly may announce it on the affected market page or notify users separately, at Probly’s sole discretion.
 
-If a void is declared, Probly announces it on the affected market page and notifies holders. The specific handling of any refund is determined on a case-by-case basis under the [Terms of Use](https://www.probly.com/en/term-of-use).
+## Refund issuance
 
-## What Is Not Refundable
+Refunds typically apply to trades made before Probly makes an announcement. If Probly pre-announces a clarification, refunds may apply to trades made before that pre-announcement. Trades made afterward are generally not eligible.
 
-* Normal trading losses (you were on the wrong side of a market that resolved correctly)
-* Losses from slippage on market orders
-* Losses from orders you placed by mistake
-* Losses from price movements while your order was open
-* Network gas fees paid to the blockchain
+## When refunds are not issued
 
-## Appealing a Resolution
+Refunds are not typically issued simply because a market is controversial or disputed. Non-refundable circumstances include:
 
-If you believe a market resolved incorrectly against its published rules:
-
-1. Email **support@probly.com** with the market name and your concern
-2. Attach supporting evidence (official sources, timestamps, etc.)
-3. Appeals are reviewed strictly against the market's published rules
-
-{% hint style="warning" %}
-Resolutions consistent with the published rules are **final** — even if you disagree with the real-world outcome. See the [Terms of Use](https://www.probly.com/en/term-of-use) for the binding dispute procedure.
-{% endhint %}
+1. Disagreements over interpretation, qualification, or unclear wording.
+2. Slippage on market orders.
+3. Orders placed by mistake.
+4. Price movements while an order is open.
+5. Network gas fees paid to the blockchain.
+6. Normal trading losses.
