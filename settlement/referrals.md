@@ -1,5 +1,7 @@
 ---
-description: Earn a commission on the trading fees of every friend you invite — and every friend they invite.
+description: >-
+  Earn a commission on the trading fees of every friend you invite — and every
+  friend they invite.
 ---
 
 # Referrals
@@ -8,15 +10,12 @@ Share your link and you'll earn a **commission** on the trading fees paid by any
 
 ## How It Works
 
-<figure><picture>
-  <source srcset="../.gitbook/assets/settlement_referrals_1-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="../.gitbook/assets/settlement_referrals_1.svg" alt="">
-</picture></figure>
+<figure><img src="../.gitbook/assets/Gemini_Generated_Image_bc2fzsbc2fzsbc2f.png" alt=""><figcaption></figcaption></figure>
 
-| Level             | Who they are                           | Your commission                        |
-| ----------------- | -------------------------------------- | -------------------------------------- |
-| **Direct (L1)**   | Users you invited yourself             | **30%** of their **net** trading fees  |
-| **Indirect (L2)** | Users invited by your direct referrals | **10%** of their **net** trading fees  |
+| Level             | Who they are                           | Your commission                       |
+| ----------------- | -------------------------------------- | ------------------------------------- |
+| **Direct (L1)**   | Users you invited yourself             | **10%** of their **net** trading fees |
+| **Indirect (L2)** | Users invited by your direct referrals | **5%** of their **net** trading fees  |
 
 "Net" means **after** the invitee's cashback has been deducted (see below).
 
@@ -36,7 +35,7 @@ The split is straightforward:
 
 1. **Invitee pays the standard fee** on each trade
 2. **Cashback** is returned to the invitee at 00:00 UTC
-3. The remaining **net fee** is the basis for your 30% (L1) or 10% (L2) commission
+3. The remaining **net fee** is the basis for your 10% (L1) or 5% (L2) commission
 4. Your **commission is paid daily at 00:00 UTC** in USDC
 
 In other words: cashback is taken off first, **then** your commission is computed on what's left.
@@ -45,19 +44,19 @@ In other words: cashback is taken off first, **then** your commission is compute
 
 Suppose **Alice** is your direct invitee. Over a week, her trading activity looks like this:
 
-| Step                                          | Amount   |
-| --------------------------------------------- | -------- |
-| Alice's gross fees paid                       | $100     |
-| Daily cashback returned to Alice              | −$X      |
-| **Net fees** (basis for your commission)      | $100 − X |
-| **Your L1 commission** = 30% × ($100 − X)     | —        |
+| Step                                      | Amount   |
+| ----------------------------------------- | -------- |
+| Alice's gross fees paid                   | $100     |
+| Daily cashback returned to Alice          | −$X      |
+| **Net fees** (basis for your commission)  | $100 − X |
+| **Your L1 commission** = 10% × ($100 − X) | —        |
 
 Now imagine Alice invited **Carol**, who also traded that week:
 
-| Trader                   | Net fees (after their cashback) | Your share | You earn       |
-| ------------------------ | ------------------------------- | ---------- | -------------- |
-| **Alice** (Direct, L1)   | net of her cashback             | 30%        | 30% × her net  |
-| **Carol** (Indirect, L2) | net of her cashback             | 10%        | 10% × her net  |
+| Trader                   | Net fees (after their cashback) | Your share | You earn      |
+| ------------------------ | ------------------------------- | ---------- | ------------- |
+| **Alice** (Direct, L1)   | net of her cashback             | 10%        | 10% × her net |
+| **Carol** (Indirect, L2) | net of her cashback             | 5%         | 5% × her net  |
 
 Earnings scale linearly with your invitees' activity — no cap.
 
